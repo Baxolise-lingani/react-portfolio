@@ -12,7 +12,7 @@ const introdata = {
         third: "Data Analyst",
     },
     description: "Crafting Code, Shaping Tomorrow: Empowering the Future, One Line at a Time.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/432419930_1630509451110914_1442805129423803973_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHjvZilJ33KRTUnZixVBiayPXLxQRewsXg9cvFBF7CxeOaEhBpFcl5fUqj7VxrqtbPReIwrl2sXBlP8bMuj67Ey&_nc_ohc=jzf9SIOV-5QAX_eSDDW&_nc_ht=scontent-cpt1-1.xx&oh=00_AfCdvI2o_jsww89jYLZzZs9ASEKCKmsPIdZBr3EgyW4gWg&oe=65FBB400",
 };
 
 const dataabout = {
